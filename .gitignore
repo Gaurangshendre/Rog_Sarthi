@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# VS Code directory
+.vscode/
+
+# Local MongoDB data directory
+data/
+
+# Local logs
+*.log
